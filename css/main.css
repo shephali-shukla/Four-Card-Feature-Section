@@ -1,0 +1,156 @@
+
+body{
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/**********************************/
+
+
+/*********************************/
+.hook-text{
+    margin-top: 100px;
+    font-weight: 200;
+    font-size: 25px;  
+    border: none;
+    text-align: center;
+}
+
+
+/*********************************/
+.credit-text{
+    color: hsl(234, 12%, 34%);
+    margin-top: 10px;
+    font-weight: 400;
+    margin-top: 0px;   
+    text-align: center; 
+}
+
+/********************************/
+
+.info-text{
+    color: hsl(229, 6%, 66%);
+    font-size: 15px;
+    font-weight: 200;
+    text-align: center;
+}
+
+/********************************************************/
+
+.box-top{
+    border-top: 5px solid hsl(0, 78%, 62%);
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    
+    height: 220px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 300px;   
+}
+
+.box-top>h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box-top>p{
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.top-svg{
+    width: fit-content;
+    margin-left: 220px;
+}
+
+/*******************************************************/
+
+.box-bottom{
+    border-top: 5px solid hsl(34, 97%, 64%);
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+
+    height: 220px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 300px;   
+}
+
+.box-bottom>h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box-bottom>p{
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.bottom-svg{
+    width: fit-content;
+    margin-left: 220px;
+}
+
+/******************************************************/
+
+.box-left{
+    border-top: 5px solid hsl(180, 62%, 55%);
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    height: 220px;
+    padding: 10px;
+    width: 300px;
+    position: relative;
+    bottom: 350px; 
+    left: 200px;  
+}
+
+.box-left>h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box-left>p{
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.left-svg{
+    width: fit-content;
+    margin-left: 220px;
+}
+
+/************************************************************/
+
+.box-right{
+    border-top: 5px solid hsl(212, 86%, 64%);
+    border-radius: 10px;
+    box-shadow: 0 7px 30px -10px rgba(150,170,180,0.5);
+    height: 220px;
+    padding: 10px;
+    width: 300px;
+    position: relative;
+    bottom: 590px; 
+    left: 1000px;  
+    
+}
+
+.box-right>h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box-right>p{
+    font-size: 15px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+
+.right-svg{
+    width: fit-content;
+    margin-left: 220px;
+}
